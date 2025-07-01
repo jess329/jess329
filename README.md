@@ -2,8 +2,6 @@
 ### Frontend Developer
 ## About Me
 🌱 I’m currently learning <b>JavaScript</b>.<br>
-🔭 Right now working on building my own <b>chess game</b>.<br>
-💬 Ask me about <b>React</b>.<br>
 📫 How to reach me: jasper.mittag@outlook.de <br>
 
 ## 👨‍💻 Tech Stack
