@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jasper
 ### Frontend Developer
 ## About Me
-🌱 I’m currently learning <b>JavaScript</b>.<br>
+🌱 I’m currently learning <b>Next.js</b> and <b>TypeScript</b>.<br>
 📫 How to reach me: jasper.mittag@outlook.de <br>
 
 ## 👨‍💻 Tech Stack
